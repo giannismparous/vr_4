@@ -7,10 +7,10 @@ LinkBehaviour_0A9ACA11_1E01_2E8B_418A_FDFE347ED313.source = https://web.facebook
 LinkBehaviour_0BA6E706_1E01_2689_419D_DBFECEB4E5EC.source = https://web.facebook.com/madaniacafe/?locale=el_GR&_rdc=1&_rdr
 LinkBehaviour_0A986A13_1E01_2E8F_41BD_9B177A812B5F.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
 LinkBehaviour_0A3D13E1_1E07_5D8B_41AE_BCB157FED145.source = https://www.google.com/maps/place/Madania+All+Day+Cafe/@37.9477967,23.7368759,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd0b985a1cb3:0xa290ba4d42b949fa!8m2!3d37.9477967!4d23.7368759!16s%2Fg%2F11gwmf7vd3?entry=ttu
-LinkBehaviour_0D5F9361_1E01_5E8B_41A7_F174B000A674.source = https://www.instagram.com/madaniacafebar/
 LinkBehaviour_0A9FCA11_1E01_2E8B_41AF_E202D332C81D.source = https://www.instagram.com/madaniacafebar/
-LinkBehaviour_0A981A0F_1E01_2E97_41AF_08737BF36522.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
+LinkBehaviour_0D5F9361_1E01_5E8B_41A7_F174B000A674.source = https://www.instagram.com/madaniacafebar/
 LinkBehaviour_0AB79FDF_1E01_25B7_41A1_183151975076.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
+LinkBehaviour_0A981A0F_1E01_2E97_41AF_08737BF36522.source = https://www.tripadvisor.com.gr/Restaurant_Review-g4878510-d15594220-Reviews-Madania-Agios_Dimitrios_Attica.html
 
 ## Media
 
@@ -91,6 +91,10 @@ imlevel_000D26DD_1E01_E7B8_41AE_8981D76E895E.url = media/popup_01E1963B_1E03_26F
 imlevel_000D46DE_1E01_E7B8_418C_BB4992CB704A.url = media/popup_01E1963B_1E03_26FF_419F_8A486B98E85D_en_0_1.jpg
 imlevel_000D56DE_1E01_E7B8_41BB_FA8151B2321F.url = media/popup_01E1963B_1E03_26FF_419F_8A486B98E85D_en_0_2.jpg
 imlevel_000D76DE_1E01_E7B8_41BA_720DED2CBE47.url = media/popup_01E1963B_1E03_26FF_419F_8A486B98E85D_en_0_3.jpg
+imlevel_358F959C_2447_916C_41A8_12B4FE4667A8.url = media/popup_35D44E2F_2446_F3AC_419F_F85F49769E3C_en_0_0.jpg
+imlevel_358FF59D_2447_916C_41BD_AD634F8CEAD5.url = media/popup_35D44E2F_2446_F3AC_419F_F85F49769E3C_en_0_1.jpg
+imlevel_358FC59D_2447_916C_41BD_DA079AE0659E.url = media/popup_35D44E2F_2446_F3AC_419F_F85F49769E3C_en_0_2.jpg
+imlevel_358F259D_2447_916C_41BB_3C7B6CBD5C10.url = media/popup_35D44E2F_2446_F3AC_419F_F85F49769E3C_en_0_3.jpg
 imlevel_01907FBD_1E01_25FB_41B0_9E9D7EF9495B.url = media/popup_3E8F4E9E_1E0F_27B8_4185_2B33EC9A3E0E_en_0_0.jpg
 imlevel_01906FBE_1E01_25F9_41BA_0F19290AEE47.url = media/popup_3E8F4E9E_1E0F_27B8_4185_2B33EC9A3E0E_en_0_1.jpg
 imlevel_01905FBE_1E01_25F9_41A7_58A518F85D14.url = media/popup_3E8F4E9E_1E0F_27B8_4185_2B33EC9A3E0E_en_0_2.jpg
